@@ -1,0 +1,8 @@
+C:\Users\Chinchinadapavani\Source\Repos\insert\insert\bin\Debug\insert.exe.config
+C:\Users\Chinchinadapavani\Source\Repos\insert\insert\bin\Debug\insert.exe
+C:\Users\Chinchinadapavani\Source\Repos\insert\insert\bin\Debug\insert.pdb
+C:\Users\Chinchinadapavani\Source\Repos\insert\insert\obj\Debug\insert.csproj.AssemblyReference.cache
+C:\Users\Chinchinadapavani\Source\Repos\insert\insert\obj\Debug\insert.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chinchinadapavani\Source\Repos\insert\insert\obj\Debug\insert.csproj.CoreCompileInputs.cache
+C:\Users\Chinchinadapavani\Source\Repos\insert\insert\obj\Debug\insert.exe
+C:\Users\Chinchinadapavani\Source\Repos\insert\insert\obj\Debug\insert.pdb
