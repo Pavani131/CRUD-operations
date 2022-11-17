@@ -1,0 +1,8 @@
+C:\Users\Chinchinadapavani\Source\Repos\retrive\retrive\obj\Debug\retrive.csproj.AssemblyReference.cache
+C:\Users\Chinchinadapavani\Source\Repos\retrive\retrive\obj\Debug\retrive.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chinchinadapavani\Source\Repos\retrive\retrive\obj\Debug\retrive.csproj.CoreCompileInputs.cache
+C:\Users\Chinchinadapavani\Source\Repos\retrive\retrive\bin\Debug\retrive.exe.config
+C:\Users\Chinchinadapavani\Source\Repos\retrive\retrive\bin\Debug\retrive.exe
+C:\Users\Chinchinadapavani\Source\Repos\retrive\retrive\bin\Debug\retrive.pdb
+C:\Users\Chinchinadapavani\Source\Repos\retrive\retrive\obj\Debug\retrive.exe
+C:\Users\Chinchinadapavani\Source\Repos\retrive\retrive\obj\Debug\retrive.pdb
