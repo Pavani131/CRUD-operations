@@ -1,0 +1,8 @@
+C:\Users\Chinchinadapavani\Source\Repos\create\create\obj\Debug\create.csproj.AssemblyReference.cache
+C:\Users\Chinchinadapavani\Source\Repos\create\create\obj\Debug\create.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chinchinadapavani\Source\Repos\create\create\obj\Debug\create.csproj.CoreCompileInputs.cache
+C:\Users\Chinchinadapavani\Source\Repos\create\create\bin\Debug\create.exe.config
+C:\Users\Chinchinadapavani\Source\Repos\create\create\bin\Debug\create.exe
+C:\Users\Chinchinadapavani\Source\Repos\create\create\bin\Debug\create.pdb
+C:\Users\Chinchinadapavani\Source\Repos\create\create\obj\Debug\create.exe
+C:\Users\Chinchinadapavani\Source\Repos\create\create\obj\Debug\create.pdb
